@@ -2,7 +2,7 @@
 >javascript
 
 ![preview](./img/bg-readme.jpeg)
-[Acesse aqui!](https://oyurisousa.github.io/app-lista-supermercado/)
+[Acesse aqui!](https://app-lista-supermercado.vercel.app/)
 
 
 *Projeto construído para praticar o vanila javascript.
