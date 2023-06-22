@@ -46,4 +46,5 @@ enviar.addEventListener('click',()=>{
 reset.addEventListener('click',()=>{
     produtos = []
     lista_produto.innerHTML = ''
+    total.innerHTML = 'Total: R$ 0,00'
 })
